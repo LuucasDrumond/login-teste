@@ -101,9 +101,7 @@ input:valid ~ label{
 
 .esqueci label input{
     margin-right: 5px;
-    position: fixed;
-    left: 90px;
-    bottom: 161.5px;
+    
 }
 
 
