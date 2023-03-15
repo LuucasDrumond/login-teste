@@ -99,6 +99,13 @@ input:valid ~ label{
     color: #fff;
 }
 
+.esqueci label input{
+    margin-right: 5px;
+    position: fixed;
+    left: 90px;
+    bottom: 161.5px;
+}
+
 
 .esqueci label a:hover{
     text-decoration: underline;
