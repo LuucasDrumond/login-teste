@@ -141,3 +141,9 @@ button{
 .registrar p a:hover{
     text-decoration: underline;
 }
+
+button:hover{
+    background-color: #fff;
+    transform: scale(1.1)
+
+}
